@@ -772,4 +772,4 @@ threading.Thread(target=schedule_backups, daemon=True).start()
 
 if __name__ == '__main__':
     update_next_backup_time()
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5454)
