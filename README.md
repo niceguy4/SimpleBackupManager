@@ -1,5 +1,7 @@
 # Simple Backup Manager
 
+![image](https://github.com/user-attachments/assets/aa3cdc65-3128-4bfa-9483-b5b374533690)
+
 * Backup files and folders to zip
 * Optional retention policy
 * Optional discord notification using Discord Webhooks
