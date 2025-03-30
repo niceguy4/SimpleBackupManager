@@ -14,4 +14,4 @@ pip install -r requirements.txt
 python backupmanager.py
 ```
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> This application is not meant to be public facing, e.g. don't expose this application or port outside your firewall.
